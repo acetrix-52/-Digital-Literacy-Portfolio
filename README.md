@@ -40,7 +40,7 @@ Set up professional profiles on GitHub, LinkedIn, and Kaggle to build an online 
 ### 🔹 Task 3: Platforms Exploration
 Completed a beginner coding problem on HackerRank and created a Digital Literacy Quiz using Google Forms.
 
-👉 Google Form Link: [Paste your form link here]
+👉 Google Form Link: [ https://docs.google.com/forms/d/e/1FAIpQLSdnch9ycC14EoJGIuBUyCdaCrFT2tDNBonHlYgLvNxSBuATZg/viewform?usp=publish-editor ]
 
 ---
 
